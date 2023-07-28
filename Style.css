@@ -1,0 +1,19 @@
+/* Reset Css */
+*{
+    margin: 0;
+    padding: 0;
+}
+:root{
+    --navbar-height: 60px
+}
+#navbar{
+    display: flex;
+    align-items: center;
+}
+/* #navbar ul{
+    display: flex;
+} */
+#logo img{
+    height: 70px;
+    background-size: cover;
+}
