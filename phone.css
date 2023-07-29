@@ -1,0 +1,61 @@
+/* -------<>>>>>>>>>>>>>Navigation */
+#navbar {
+  flex-direction: column;
+ 
+}
+
+
+#navbar ul li a {
+  font-size: 1rem;
+  padding: 0px 7px;
+}
+
+#navbar ul li {
+  margin: 5px 5px;
+}
+/* -------<>>>>>>>>>>>>>Home section */
+#home {
+  height: 500px;
+  padding: 3px 100px;
+}
+
+#home h1 {
+  font-size: 2rem;
+  margin: 5px 5px;
+}
+
+#home ::before {
+  height: 200px;
+}
+
+/* Services section */
+#services {
+  flex-direction: column;
+}
+
+#services .box {
+  margin: 20px 32px;
+  overflow: hidden;
+}
+#services .box img {
+  height: 112px;
+}
+
+#services .box p {
+  padding: 0px 30px;
+}
+
+/*-------<>>>>>>>>>>>>> Clint section */
+#clints {
+  overflow: hidden;
+}
+
+#clints {
+  flex-wrap: wrap;
+}
+/* -------<>>>>>>>>>>>>>Contact us section */
+.btn {
+  font-size: 13px;
+  padding: 4px 8px;
+}
+/* -------<>>>>>>>>>>>>>footer section */
